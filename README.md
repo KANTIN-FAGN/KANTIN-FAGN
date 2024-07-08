@@ -17,26 +17,34 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 
 ## 💻 Languages and Tools
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=js" alt="js">
+  <img src="https://skillicons.dev/icons?i=git" alt="git">
+  <img src="https://skillicons.dev/icons?i=github" alt="github">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cpp">
+  <img src="https://skillicons.dev/icons?i=css" alt="css">
+  <img src="https://skillicons.dev/icons?i=html" alt="html">
+  <img src="https://skillicons.dev/icons?i=discord" alt="discord">
+  <img src="https://skillicons.dev/icons?i=go" alt="go">
+  <img src="https://skillicons.dev/icons?i=java" alt="java">
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs">
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode">
+  <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm">
 </p>
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KANTIN-FAGN&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&count_private=true&theme=gruvbox" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KANTIN-FAGN&show_icons=true&count_private=true&theme=gruvbox" alt="KANTIN-FAGN's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&count_private=true&theme=gruvbox" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
+<p style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=gruvbox" alt="GitHub Trophies" />
 </p>
