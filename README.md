@@ -34,3 +34,9 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=KANTIN-FAGN&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&count_private=true&theme=gruvbox" />
+
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=gruvbox" alt="GitHub Trophies" />
+</p>
