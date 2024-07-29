@@ -34,6 +34,7 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
   <img src="https://skillicons.dev/icons?i=npm" alt="npm">
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode">
   <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm">
+  <img src="https://skillicons.dev/icons?i=express" alt="express">
 </p>
 
 ## ⚡ GitHub Stats
