@@ -14,7 +14,7 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/kantin-fagniart/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="#"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://kantin-fagniart.fr/"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 💻 Languages and Tools
