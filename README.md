@@ -42,11 +42,11 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANTIN-FAGN&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KANTIN-FAGN&theme=dark" alt="KANTIN-FAGN's GitHub Streak" />   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KANTIN-AFGN&theme=dark" alt="KANTIN-FAGN's GitHub Streak" />   
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANTIN-FAGN&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
