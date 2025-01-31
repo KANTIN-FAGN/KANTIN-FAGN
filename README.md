@@ -19,22 +19,21 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 
 ## 💻 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="js">
   <img src="https://skillicons.dev/icons?i=git" alt="git">
   <img src="https://skillicons.dev/icons?i=github" alt="github">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cpp">
   <img src="https://skillicons.dev/icons?i=css" alt="css">
   <img src="https://skillicons.dev/icons?i=html" alt="html">
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord">
+  <img src="https://skillicons.dev/icons?i=js" alt="js">
   <img src="https://skillicons.dev/icons?i=go" alt="go">
-  <img src="https://skillicons.dev/icons?i=java" alt="java">
   <img src="https://skillicons.dev/icons?i=linux" alt="linux">
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs">
+  <img src="https://skillicons.dev/icons?i=php" alt="php">
   <img src="https://skillicons.dev/icons?i=npm" alt="npm">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode">
-  <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs">
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs">
   <img src="https://skillicons.dev/icons?i=express" alt="express">
+  <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm">
+  <img src="https://skillicons.dev/icons?i=discord" alt="discord">
 </p>
 
 ## ⚡ GitHub Stats
