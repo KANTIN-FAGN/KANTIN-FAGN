@@ -46,6 +46,6 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 
 ## 🏆 GitHub Trophies
 
-<p style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=gruvbox" alt="GitHub Trophies" />
+<p style="display: flex; align-item: center; justify-content: center; width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=gruvbox&rank=-?" alt="GitHub Trophies" />
 </p>
