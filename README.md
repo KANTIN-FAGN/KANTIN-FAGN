@@ -19,21 +19,33 @@ I am a French student at YNOV Aix campus, currently in my first year, with a pas
 
 ## 💻 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="git">
-  <img src="https://skillicons.dev/icons?i=github" alt="github">
-  <img src="https://skillicons.dev/icons?i=css" alt="css">
-  <img src="https://skillicons.dev/icons?i=html" alt="html">
-  <img src="https://skillicons.dev/icons?i=js" alt="js">
-  <img src="https://skillicons.dev/icons?i=go" alt="go">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql">
-  <img src="https://skillicons.dev/icons?i=php" alt="php">
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs">
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs">
-  <img src="https://skillicons.dev/icons?i=express" alt="express">
-  <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm">
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/react-dark.svg" alt="React">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nextjs-dark.svg" alt="NextJS">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/angular-dark.svg" alt="Angular">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/typescript.svg" alt="TypeScript">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/javascript.svg" alt="JavaScript">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/kaggle-dark.svg" alt="Kaggle">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/css.svg" alt="css">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/threejs-dark.svg" alt="ThreeJS">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/figma-dark.svg" alt="Figma">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/notion-dark.svg" alt="Notion">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/golang.svg" alt="Golang">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/pandas-dark.svg" alt="Pandas">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/anaconda-dark.svg" alt="Anaconda">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nestjs-dark.svg" alt="NestJS">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-dark.svg" alt="Python">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/docker.svg" alt="Docker">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/aws-dark.svg" alt="AWS">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/insomnia.svg" alt="Insomnia">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/seaborn-dark.svg" alt="Seaborn">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/numpy-dark.svg" alt="Numpy">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/pycharm-dark.svg" alt="Pycharm">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/webstorm-dark.svg" alt="WebStorm">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/postgresql-dark.svg" alt="PostgreSQL">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/mysql-dark.svg" alt="SQL">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/prisma.svg" alt="Prisma">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/git-dark.svg" alt="Git">
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/githubactions-dark.svg" alt="GitHub Actions">
 </p>
 
 ## ⚡ GitHub Stats
