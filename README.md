@@ -1,63 +1,119 @@
 [![](https://visitcount.itsvg.in/api?id=KANTIN-FAGN&icon=0&color=9)](https://visitcount.itsvg.in)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=5BBA6F&text=Welcome%20To%20My%20Profile&descAlign=55&descAlignY=60&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,100:2c5364&text=Data%20Science%20Portfolio&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<h1 align="center">Kantin FAGNIART</h1>
+<h3 align="center">Data Science • Machine Learning • Full-Stack Developer</h3>
 
-<h3 align="center">Hi there, I'm Kantin FAGNIART 👋</h3>
+---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I am a French student at YNOV Aix campus, currently in my first year, with a passion for technology and a strong interest in software development. I am particularly interested in full-stack development, which allows me to work on both the front-end and back-end of web applications.
+🎓 Student at YNOV Aix  
+📊 Passionate about **Data Science, AI & Software Engineering**  
+🔍 Focused on extracting insights from data and building intelligent systems  
 
-## 🔗 Links
+I work across the full data pipeline:
+- Data Cleaning & Processing  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning Models  
+- Data Visualization & Deployment  
 
-<p align="left">
-  <a target="_blank"href="https://www.linkedin.com/in/kantin-fagniart/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="https://kantin-fagniart.fr/"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/kantin-fagniart/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://kantin-fagniart.fr/">
+    <img src="https://img.shields.io/badge/Portfolio-CB4827?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
-## 💻 Languages and Tools
-<p align="left">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/react-dark.svg" alt="React" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nextjs-dark.svg" alt="NextJS" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/angular-dark.svg" alt="Angular" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/typescript.svg" alt="TypeScript" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/javascript.svg" alt="JavaScript" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/kaggle-dark.svg" alt="Kaggle" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/css.svg" alt="css" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/threejs-dark.svg" alt="ThreeJS" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/figma-dark.svg" alt="Figma" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/notion-dark.svg" alt="Notion" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/golang.svg" alt="Golang" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/pandas-dark.svg" alt="Pandas" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/anaconda-dark.svg" alt="Anaconda" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nestjs-dark.svg" alt="NestJS" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-dark.svg" alt="Python" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/docker.svg" alt="Docker" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/aws-dark.svg" alt="AWS" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/insomnia.svg" alt="Insomnia" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/seaborn-dark.svg" alt="Seaborn" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/numpy-dark.svg" alt="Numpy" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/pycharm-dark.svg" alt="Pycharm" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/webstorm-dark.svg" alt="WebStorm" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/postgresql-dark.svg" alt="PostgreSQL" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/mysql-dark.svg" alt="SQL" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/prisma.svg" alt="Prisma" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/git-dark.svg" alt="Git" width="40">
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/githubactions-dark.svg" alt="GitHub Actions" width="40">
+---
+
+## 📊 Data Science Stack
+
+### 🧮 Languages
+<p>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/javascript.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/typescript.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/golang.svg" width="45"/>
 </p>
 
-## ⚡ GitHub Stats
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KANTIN-FAGN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANTIN-FAGN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+### 📚 Data & Machine Learning
+<p>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/pandas-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/numpy-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/seaborn-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/anaconda-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/kaggle-dark.svg" width="45"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANTIN-FAGN&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
-</div>
+### 🗄️ Databases
+<p>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/postgresql-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/mysql-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/prisma.svg" width="45"/>
+</p>
 
-## 🏆 GitHub Trophies
+### 🌐 Development
+<p>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/react-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nextjs-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/angular-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nestjs-dark.svg" width="45"/>
+</p>
 
-<p style="display: flex; align-item: center; justify-content: center; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=gruvbox&rank=-?" alt="GitHub Trophies" />
+### ⚙️ Tools & Cloud
+<p>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/docker.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/aws-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/git-dark.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/githubactions-dark.svg" width="45"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KANTIN-FAGN&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANTIN-FAGN&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Machine Learning Projects  
+- Data Visualization Dashboards  
+- Full-Stack Applications with Data  
+- Cloud & Deployment  
+
+---
+
+<p align="center">
+  <i>"Turning data into actionable insights."</i>
 </p>
