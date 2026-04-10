@@ -105,14 +105,6 @@ I work across the full data pipeline:
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=tokyonight&no-frame=true"/>
-</p>
-
----
-
 ## 🚀 Current Focus
 
 - Machine Learning Projects  
