@@ -83,8 +83,16 @@ I work across the full data pipeline:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KANTIN-FAGN&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KANTIN-FAGN&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KANTIN-FAGN&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +108,7 @@ I work across the full data pipeline:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KANTIN-FAGN&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
