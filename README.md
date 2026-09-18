@@ -60,6 +60,7 @@ I work across the full data pipeline:
   <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/postgresql-dark.svg" width="45"/>
   <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/mysql-dark.svg" width="45"/>
   <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/prisma.svg" width="45"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlalchemy-dark.svg" width="45"/>
 </p>
 
 ### 🌐 Development
