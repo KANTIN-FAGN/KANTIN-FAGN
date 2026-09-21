@@ -1,120 +1,130 @@
-[![](https://visitcount.itsvg.in/api?id=KANTIN-FAGN&icon=0&color=9)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Kantin%20FAGNIART&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Data%20Analyse%20%E2%80%A2%20Machine%20Learning&descAlignY=58&animation=fadeIn"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,100:2c5364&text=Data%20Science%20Portfolio&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Data+Scientist+en+formation+%F0%9F%93%8A;Data+Analyst+%F0%9F%94%8D;Machine+Learning+%26+Visualisation+%F0%9F%A4%96;Transformer+la+donn%C3%A9e+en+d%C3%A9cisions+%F0%9F%9A%80"/>
 </p>
-
-<h1 align="center">Kantin FAGNIART</h1>
-<h3 align="center">Data Science • Machine Learning • Full-Stack Developer</h3>
-
----
-
-## 🧠 About Me
-
-🎓 Student at YNOV Aix  
-📊 Passionate about **Data Science, AI & Software Engineering**  
-🔍 Focused on extracting insights from data and building intelligent systems  
-
-I work across the full data pipeline:
-- Data Cleaning & Processing  
-- Exploratory Data Analysis (EDA)  
-- Machine Learning Models  
-- Data Visualization & Deployment  
-
----
-
-## 🔗 Connect with Me
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/kantin-fagniart/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://kantin-fagniart.fr/">
-    <img src="https://img.shields.io/badge/Portfolio-CB4827?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kantin-fagniart/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/kantinfagniart/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://kantin-fagniart.fr/"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=KANTIN-FAGN&style=for-the-badge&color=2c5364&label=VISITES"/>
 </p>
 
 ---
 
-## 📊 Data Science Stack
+## 🧠 À propos de moi
 
-### 🧮 Languages
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Kantin FAGNIART"
+        self.school = "Ynov Campus Aix"
+        self.location = "France 🇫🇷"
+        self.role = ["Data Scientist", "Data Analyst", "Full-Stack Dev"]
+        self.focus = ["Machine Learning", "Data Visualisation", "EDA"]
+
+    def mission(self):
+        return "Transformer des données brutes en décisions utiles."
+
+
+me = DataScientist()
+print(me.mission())
+```
+
+---
+
+## 🔄 Ma façon de travailler avec la donnée
+
+```mermaid
+flowchart LR
+    A[📥 Collecte] --> B[🧹 Nettoyage]
+    B --> C[🔍 Analyse exploratoire]
+    C --> D[🤖 Modélisation ML]
+    D --> E[📊 Visualisation]
+    E --> F[🚀 Déploiement]
+```
+
+---
+
+## 📂 Projets phares
+
+| Projet | Description | Domaine |
+|:--|:--|:--:|
+| 🫀 [**CardioRisk**](https://github.com/KANTIN-FAGN/cardiorisk_project) | App web de prédiction du risque cardiovasculaire à partir de données cliniques | ML • Santé |
+| 🎗️ [**Breast Cancer Analysis**](https://github.com/KANTIN-FAGN/BreastCancer_Analysis) | Distinguer tumeurs bénignes et malignes à partir des caractéristiques des cellules | Classification |
+| 🛒 [**Olist Analysis**](https://github.com/KANTIN-FAGN/olist-analysis) | Analyse des ventes, clients et vendeurs d'un e-commerce brésilien | Data Analyse |
+| 📱 [**Social Media Analysis**](https://github.com/KANTIN-FAGN/SocialMedia_Analysis) | Impact des réseaux sociaux sur le stress, le sommeil et le bonheur | Data Viz |
+| 🎓 [**JPO Hub**](https://github.com/jpo-hub/jpo-hub-web-app) | App web pour les Journées Portes Ouvertes d'Ynov, avec quiz d'orientation | Full-Stack |
+
+---
+
+## 🛠️ Stack technique
+
+### 📊 Data Science & Analyse
 <p>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/javascript.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/typescript.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/golang.svg" width="45"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
-### 📚 Data & Machine Learning
+### 📈 Visualisation
 <p>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/pandas-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/numpy-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/seaborn-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/anaconda-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/kaggle-dark.svg" width="45"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de données
 <p>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/postgresql-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/mysql-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/prisma.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlalchemy-dark.svg" width="45"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-### 🌐 Development
+### 🌐 Développement & Cloud
 <p>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/react-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nextjs-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/angular-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/nestjs-dark.svg" width="45"/>
-</p>
-
-### ⚙️ Tools & Cloud
-<p>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/docker.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/aws-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/git-dark.svg" width="45"/>
-  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/githubactions-dark.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,react,nextjs,angular,nestjs,docker,aws,git,githubactions&theme=dark"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KANTIN-FAGN&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KANTIN-FAGN&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KANTIN-FAGN&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KANTIN-FAGN&theme=tokyonight"/>
 </p>
-
----
-
-## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KANTIN-FAGN&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📊 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANTIN-FAGN&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANTIN-FAGN&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🎯 En ce moment
 
-- Machine Learning Projects  
-- Data Visualization Dashboards  
-- Full-Stack Applications with Data  
-- Cloud & Deployment  
+- 🔬 Je construis des projets de **Machine Learning** sur des données réelles
+- 📊 Je crée des **dashboards** clairs et interactifs
+- ☁️ J'apprends le **déploiement** de modèles dans le cloud
+- 🤝 Ouvert aux **stages et alternances** en Data Science / Data Analyse
 
 ---
 
 <p align="center">
-  <i>"Turning data into actionable insights."</i>
+  <i>« Sans données, vous n'êtes qu'une personne de plus avec une opinion. » — W. Edwards Deming</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
 </p>
