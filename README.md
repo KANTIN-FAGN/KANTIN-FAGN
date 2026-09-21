@@ -117,8 +117,7 @@ flowchart LR
 - 🔬 Je construis des projets de **Machine Learning** sur des données réelles
 - 📊 Je crée des **dashboards** clairs et interactifs
 - ☁️ J'apprends le **déploiement** de modèles dans le cloud
-- 🤝 Ouvert aux **stages et alternances** en Data Science / Data Analyse
-
+  
 ---
 
 <p align="center">
